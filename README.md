@@ -38,5 +38,5 @@
 </p>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theakseer&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theakseer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
